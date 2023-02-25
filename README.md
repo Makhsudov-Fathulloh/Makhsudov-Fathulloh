@@ -2,9 +2,9 @@
 
 <h1 align="center">Junior Full Stack Web Developer<h1>
 
-<p>I am a software engineer specializing in creating back-end and front-end services, web applications and systems using PHP language and Symfony & Laravel & VueJs frameworks.</p> </br>
+<h6> I am a software engineer specializing in creating back-end and front-end services, web applications and systems using PHP language and Symfony & Laravel & VueJs frameworks.</p> </br>
 
-I am always ready to collaborate on projects and innovative ideas.
+I am always ready to collaborate on projects and innovative ideas. <h6>
   
 <h2 align="left">👨🏻‍💻 Contact Me:</h2>
   
