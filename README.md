@@ -9,7 +9,7 @@ I am always ready to collaborate on projects and innovative ideas. <h4>
 <h2 align="left">👨🏻‍💻 Contact Me:</h2>
 
   
-[![Linkedin Badge](https://img.shields.io/badge/-Makhsudov_Fathulloh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fathulloh-makhsudov-b07895262/)](https://www.linkedin.com/in/fathulloh-makhsudov-b07895262/)[![Telegram Badge](https://img.shields.io/badge/@makhsudov_f-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/makhsudov_f)](https://t.me/makhsudov_f) 
+[![Linkedin Badge](https://img.shields.io/badge/-Makhsudov_Fathulloh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fathulloh-makhsudov-b07895262/)](https://www.linkedin.com/in/fathulloh-makhsudov-b07895262/) [![Telegram Badge](https://img.shields.io/badge/@makhsudov_f-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/makhsudov_f)](https://t.me/makhsudov_f) 
  
 
 ## ⚡ Technologies
@@ -35,6 +35,13 @@ I am always ready to collaborate on projects and innovative ideas. <h4>
 ![Image](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![Image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+  
+  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Makhsudov-Fathulloh&show_icons=true&theme=gotham" alt="Makhsudov-Fathulloh" />
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Makhsudov-Fathulloh&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Makhsudov-Fathulloh" /></a> </p>
+
+
  
   
 
