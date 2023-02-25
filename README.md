@@ -41,7 +41,6 @@ I am always ready to collaborate on projects and innovative ideas. <h4>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Makhsudov-Fathulloh&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Makhsudov-Fathulloh" /></a> </p>
   
- <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Makhsudov-Fathulloh}" alt="Makhsudov-Fathulloh" />
 
 
  
