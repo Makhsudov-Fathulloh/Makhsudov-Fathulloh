@@ -37,6 +37,7 @@ I am always ready to collaborate on projects and innovative ideas. <h4>
 ![Image](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Image](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Image](https://img.shields.io/badge/TelegramBot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Image](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![Image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Image](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)  
