@@ -6,7 +6,7 @@
 
 I am always ready to collaborate on projects and innovative ideas. <h4>
   
-<h2 align="left">👨🏻‍💻 Contact Me: </h2>
+<h2 align="left">👨🏻‍💻 Contact Me:</h2>
 
   
 [![Linkedin Badge](https://img.shields.io/badge/-Makhsudov_Fathulloh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fathulloh-makhsudov-b07895262/)](https://www.linkedin.com/in/fathulloh-makhsudov-b07895262/) [![Telegram Badge](https://img.shields.io/badge/@makhsudov_f-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/makhsudov_f)](https://t.me/makhsudov_f) 
