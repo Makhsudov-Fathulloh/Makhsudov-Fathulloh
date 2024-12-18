@@ -1,8 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px"> I'm Fathulloh 👨‍💻
 
-<h1 align="center">Junior Full Stack Web Developer<h1>
+<h1 align="center">Junior Backend Developer<h1>
 
-<h4> I am a software engineer specializing in creating back-end and front-end services, web applications and systems using PHP language and Yii2 & Symfony & VueJs frameworks.</p> </br>
+<h4> I am a software engineer specializing in creating back-end and front-end services, web applications and systems using PHP language and Yii2 & Symfony (basic) & Laravel ((basic)) frameworks.</p> </br>
 
 I am always ready to collaborate on projects and innovative ideas. <h4>
   
